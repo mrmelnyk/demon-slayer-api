@@ -9,7 +9,11 @@ const characters = {
     'tanjiro': {
         'fullName': 'Tanjiro Kamado',
         'race': 'Human',
-        'breathingTechnique': 'Water/Hirokami Kagara'
+        'gender': 'Male',
+        'age': '13 to 16',
+        'height': '165cm (5.5)',
+        'weight': '61kg (134lb)',
+        'breathingTechnique': 'Water/Sun (Hirokami Kagara)'
     },
 
     'zenistu': {
@@ -22,6 +26,19 @@ const characters = {
         'fullName': 'Inosuke Hashibira',
         'race': 'Human',
         'breathingTechnique': 'Beast'
+    },
+
+    'nezuko': {
+        'fullName': 'Nezuko Kamado',
+        'race': 'Demon',
+        'breathingTechnique': 'N/A',
+        'bloodDemonArt': 'Burning Blood'
+    },
+
+    'giyu': {
+        'fullName': 'Giyu Tomioka',
+        'race': 'Human',
+        'breathingTechnique': 'Water'
     },
 
     'unknown': {
