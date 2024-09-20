@@ -91,8 +91,120 @@ const characters = {
                 'hairColor': 'Black',
                 'eyeColor': 'Blue',
                 'combatStyle': 'Water Breathing',
-                'affiliation': 'Demon Slayer Corps'
+                'affiliation': 'Demon Slayer Corps Hashira'
             },
+
+            'shinobu': {
+                'fullName': 'Shinobu Kocho',
+                'race': 'Human',
+                'gender': 'Female',
+                'age': '18',
+                'height': '151cm (4.11)',
+                'weight': '37kg (82lbs)',
+                'birthday': 'February 24',
+                'hairColor': 'Black to Purple',
+                'eyeColor': 'Purple',
+                'combatStyle': 'Insect Breathing',
+                'affiliation': 'Demon Slayer Corps Hashira'
+            },
+
+            'rengoku': {
+                'fullName': 'Kyojuro Rengoku',
+                'race': 'Human',
+                'gender': 'Male',
+                'age': '20',
+                'height': '177cm (5.9)',
+                'weight': '72kg (159lbs)',
+                'birthday': 'May 10',
+                'hairColor': 'Gold with Red Tips',
+                'eyeColor': 'Gold with Red Irises',
+                'combatStyle': 'Flame Breathing',
+                'affiliation': 'Demon Slayer Corps Hashira'
+            },
+
+            'tengen': {
+                'fullName': 'Tengen Uzui',
+                'race': 'Human',
+                'gender': 'Male',
+                'age': '23',
+                'height': '198cm (6.6)',
+                'weight': '95kg (209lbs)',
+                'birthday': 'October 31',
+                'hairColor': 'White',
+                'eyeColor': 'Fuchsia',
+                'combatStyle': 'Sound Breathing',
+                'affiliation': 'Demon Slayer Corps Hashira'
+            },
+
+            'muichiro': {
+                'fullName': 'Muichiro Tokito',
+                'race': 'Human',
+                'gender': 'Male',
+                'age': '14',
+                'height': '160cm (5.3)',
+                'weight': '56kg (123lbs)',
+                'birthday': 'August 8',
+                'hairColor': 'Black to Cyan',
+                'eyeColor': 'Cyan',
+                'combatStyle': 'Mist Breathing',
+                'affiliation': 'Demon Slayer Corps Hashira'
+            },
+
+            'kanroji': {
+                'fullName': 'Kanroji Mitsuri',
+                'race': 'Human',
+                'gender': 'Female',
+                'age': '19',
+                'height': '167cm (5.6)',
+                'weight': '56kg (123lbs)',
+                'birthday': 'June 1',
+                'hairColor': 'Pink to Green',
+                'eyeColor': 'Green',
+                'combatStyle': 'Love Breathing',
+                'affiliation': 'Demon Slayer Corps Hashira'
+            },
+
+            'obanai': {
+                'fullName': 'Obanai Iguro',
+                'race': 'Human',
+                'gender': 'Male',
+                'age': '21',
+                'height': '162cm (5.3)',
+                'weight': '53kg (117lbs)',
+                'birthday': 'September 15',
+                'hairColor': 'Black',
+                'eyeColor': 'Teal(Left) Yellow(Right)',
+                'combatStyle': 'Serpent Breathing',
+                'affiliation': 'Demon Slayer Corps Hashira'
+            },
+
+            'shinazugawa': {
+                'fullName': 'Sanemi Shinazugawa',
+                'race': 'Human',
+                'gender': 'Male',
+                'age': '21',
+                'height': '179cm (5.10)',
+                'weight': '75kg (165lbs)',
+                'birthday': 'November 29',
+                'hairColor': 'White',
+                'eyeColor': 'Light Purple',
+                'combatStyle': 'Wind Breathing',
+                'affiliation': 'Demon Slayer Corps Hashira'
+            },
+
+            'himejima': {
+                'fullName': 'Gyomei Himejima',
+                'race': 'Human',
+                'gender': 'Male',
+                'age': '27',
+                'height': '220cm (7.2)',
+                'weight': '130kg (287lbs)',
+                'birthday': 'August 23',
+                'hairColor': 'Black',
+                'eyeColor': 'White',
+                'combatStyle': 'Stone Breathing',
+                'affiliation': 'Demon Slayer Corps Hashira'
+            }
         }, 
 
         'kakushi': {
