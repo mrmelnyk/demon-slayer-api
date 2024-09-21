@@ -6,8 +6,8 @@ const PORT = 8000;
 app.use(cors());
 
 const characters = {
-    'demonslayercorp': {
-        'corpmembers': {
+    'demon slayer corp': {
+        'corp members': {
             'tanjiro': {
                 'fullName': 'Tanjiro Kamado',
                 'race': 'Human',
@@ -268,7 +268,120 @@ const characters = {
                 'affiliation': 'Leader of the Twelve Kizuki'
             },
 
-            
+            'tamayo': {
+                'fullName': 'Lady Tamayo',
+                'race': 'Demon',
+                'gender': 'Female',
+                'age': '500+',
+                'height': '150cm (4.11)',
+                'weight': '40kg (88lbs)',
+                'birthday': '',
+                'hairColor': 'Dark Brown',
+                'eyeColor': 'Purple to Lavender',
+                'combatStyle': 'Blood Demon Art: Blood Bewitchment',
+                'affiliation': 'Demon Slayer Corps'
+            },
+
+            'yushiro': {
+                'fullName': 'Yushiro Yamamoto',
+                'race': 'Demon',
+                'gender': 'Male',
+                'age': '35',
+                'height': '157cm (5.2)',
+                'weight': '51kg (112lbs)',
+                'birthday': '',
+                'hairColor': 'Mint Green to Black',
+                'eyeColor': 'Lavender',
+                'combatStyle': 'Blood Demon Art: Blindfold',
+                'affiliation': 'Demon Slayer Corps'
+            },
+
+            'susamaru': {
+                'fullName': 'Susamaru',
+                'race': 'Demon',
+                'gender': 'Female',
+                'age': '',
+                'height': '',
+                'weight': '',
+                'birthday': '',
+                'hairColor': 'Black to Orange',
+                'eyeColor': 'Yellow',
+                'combatStyle': 'Hiasobi Temari',
+                'affiliation': 'Muzan Kibutsuji'
+            },
+
+            'yahaba': {
+                'fullName': 'Yahaba',
+                'race': 'Demon',
+                'gender': 'Male',
+                'age': '',
+                'height': '',
+                'weight': '',
+                'birthday': '',
+                'hairColor': 'Black',
+                'eyeColor': 'Red',
+                'combatStyle': 'Koketsu Arrow',
+                'affiliation': 'Muzan Kibutsuji'
+            },
+
+            'hand demon': {
+                'fullName': 'Hand Demon',
+                'race': 'Demon',
+                'gender': 'Male',
+                'age': '47',
+                'height': '',
+                'weight': '',
+                'birthday': '',
+                'hairColor': 'Black',
+                'eyeColor': 'Yellow',
+                'combatStyle': 'Hand Manipulation',
+                'affiliation': 'None'
+            },
+
+            'swamp demon': {
+                'fullName': 'Swamp Demon',
+                'race': 'Demon',
+                'gender': 'Male',
+                'age': '',
+                'height': '',
+                'weight': '',
+                'birthday': '',
+                'hairColor': 'Dark Blue and Violet',
+                'eyeColor': 'Red',
+                'combatStyle': 'Swamp Domain',
+                'affiliation': 'None'
+            },
+
+        },
+
+        'spider family': {
+            'father': {
+                'fullName': 'Father Spider Demon',
+                'race': 'Demon',
+                'gender': 'Male',
+                'age': '',
+                'height': '',
+                'weight': '',
+                'birthday': '',
+                'hairColor': 'Silver',
+                'eyeColor': 'Teal',
+                'combatStyle': '',
+                'affiliation': 'Spider Family'
+            },
+
+            'mother': {
+                'fullName': '',
+                'race': '',
+                'gender': '',
+                'age': '',
+                'height': '',
+                'weight': '',
+                'birthday': '',
+                'hairColor': '',
+                'eyeColor': '',
+                'combatStyle': '',
+                'affiliation': ''
+            },
         },
 
         'kizuki': {
