@@ -208,7 +208,33 @@ const characters = {
         }, 
 
         'kakushi': {
+            'goto': {
+                'fullName': 'Goto',
+                'race': 'Human',
+                'gender': 'Male',
+                'age': '23',
+                'height': '',
+                'weight': '',
+                'birthday': '',
+                'hairColor': 'Black',
+                'eyeColor': 'Brown',
+                'combatStyle': '',
+                'affiliation': 'Kakushi Cleanup Brigade'
+            },
 
+            'masao': {
+                'fullName': 'Masao Maeda',
+                'race': 'Human',
+                'gender': 'Male',
+                'age': '',
+                'height': '',
+                'weight': '',
+                'birthday': '',
+                'hairColor': 'Black',
+                'eyeColor': 'Black',
+                'combatStyle': '',
+                'affiliation': 'Kakushi Uniform Maker'
+            }
         }
     },
 
@@ -227,6 +253,22 @@ const characters = {
                 'combatStyle': 'Blood Demon Art: Combustible Blood',
                 'affiliation': 'Demon Slayer Corps'
             },
+
+            'muzan': {
+                'fullName': 'Muzan Kibutsuji',
+                'race': 'Demon',
+                'gender': 'Male',
+                'age': '1000+',
+                'height': '179cm (5.10)',
+                'weight': '75kg (165lbs)',
+                'birthday': '',
+                'hairColor': 'Black',
+                'eyeColor': 'Red',
+                'combatStyle': 'Biokinesis',
+                'affiliation': 'Leader of the Twelve Kizuki'
+            },
+
+            
         },
 
         'kizuki': {
