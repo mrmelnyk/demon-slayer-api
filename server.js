@@ -370,23 +370,79 @@ const characters = {
             },
 
             'mother': {
-                'fullName': '',
-                'race': '',
-                'gender': '',
+                'fullName': 'Mother Spider Demon',
+                'race': 'Demon',
+                'gender': 'Female',
                 'age': '',
                 'height': '',
                 'weight': '',
                 'birthday': '',
-                'hairColor': '',
-                'eyeColor': '',
-                'combatStyle': '',
-                'affiliation': ''
+                'hairColor': 'White',
+                'eyeColor': 'Light Blue to Pale Green',
+                'combatStyle': 'Puppeteer',
+                'affiliation': 'Spider Family'
             },
+
+            'son': {
+                'fullName': 'Son Spider Son',
+                'race': 'Demon',
+                'gender': 'Male',
+                'age': '',
+                'height': '',
+                'weight': '',
+                'birthday': '',
+                'hairColor': 'Grey',
+                'eyeColor': 'Red(Left) Light Green(Right)',
+                'combatStyle': '',
+                'affiliation': 'Spider Family'
+            },
+
+            'daughter': {
+                'fullName': 'Spider Demon Daughter',
+                'race': 'Demon',
+                'gender': 'Female',
+                'age': '',
+                'height': '',
+                'weight': '',
+                'birthday': '',
+                'hairColor': 'White',
+                'eyeColor': 'Silver',
+                'combatStyle': '',
+                'affiliation': 'Spider Family'
+            }
         },
 
         'kizuki': {
             'lowerrank': {
+                'kyogai': {
+                    'fullName': 'Kyogai',
+                    'race': 'Demon',
+                    'gender': 'Male',
+                    'age': '',
+                    'height': '',
+                    'weight': '',
+                    'birthday': '',
+                    'hairColor': 'Black',
+                    'eyeColor': 'Red',
+                    'combatStyle': 'Drum Spells',
+                    'affiliation': 'Twelve Kizuki: Lower Six(formerly)'
+                },
 
+                'kamanue': {
+                    'fullName': 'Kamanue',
+                    'race': 'Demon',
+                    'gender': 'Male',
+                    'age': '',
+                    'height': '',
+                    'weight': '',
+                    'birthday': '',
+                    'hairColor': 'Dark Brown to Orange',
+                    'eyeColor': 'Pale Blue',
+                    'combatStyle': '',
+                    'affiliation': 'Twelve Kizuki: Lower Six'
+                },
+
+                
             },
 
             'upperrank': {
