@@ -442,11 +442,79 @@ const characters = {
                     'affiliation': 'Twelve Kizuki: Lower Six'
                 },
 
-                
+                'rui': {
+                    'fullName': 'Rui Ayaki',
+                    'race': 'Demon',
+                    'gender': 'Male',
+                    'age': '30',
+                    'height': '135cm (4.5)',
+                    'weight': '30kg (66lbs)',
+                    'birthday': '',
+                    'hairColor': 'White',
+                    'eyeColor': 'White',
+                    'combatStyle': 'Thread Manipulation',
+                    'affiliation': 'Twelve Kizuki: Lower Five/Spider Famliy'
+                },
+
+                'mukago': {
+                    'fullName': 'Mukago',
+                    'race': 'Demon',
+                    'gender': 'Female',
+                    'age': '',
+                    'height': '',
+                    'weight': '',
+                    'birthday': '',
+                    'hairColor': 'White',
+                    'eyeColor': 'Greyish Purple',
+                    'combatStyle': '',
+                    'affiliation': 'Twelve Kizuki: Lower Four'
+                },
+
+                'wakuraba': {
+                    'fullName': 'Wakuraba',
+                    'race': 'Demon',
+                    'gender': 'Male',
+                    'age': '',
+                    'height': '',
+                    'weight': '',
+                    'birthday': '',
+                    'hairColor': 'Black',
+                    'eyeColor': 'Orange',
+                    'combatStyle': '',
+                    'affiliation': 'Twelve Kizuki: Lower Three'
+                },
+
+                'rokuro': {
+                    'fullName': 'Rokuro',
+                    'race': 'Demon',
+                    'gender': 'Male',
+                    'age': '',
+                    'height': '',
+                    'weight': '',
+                    'birthday': '',
+                    'hairColor': 'Dark Purple',
+                    'eyeColor': 'Gold',
+                    'combatStyle': '',
+                    'affiliation': 'Twelve Kizuki: Lower Two'
+                },
+
+                'enmu': {
+                    'fullName': 'Enmu Tamio',
+                    'race': 'Demon',
+                    'gender': 'Male',
+                    'age': '24',
+                    'height': '168cm (5.6)',
+                    'weight': '62kg (137lbs)',
+                    'birthday': '',
+                    'hairColor': 'Black to Pink',
+                    'eyeColor': 'Blue',
+                    'combatStyle': 'Sleep Manipulation',
+                    'affiliation': 'Twelve Kizuki: Lower One'
+                }
             },
 
             'upperrank': {
-
+                
             }
         }
     },
