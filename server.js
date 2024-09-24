@@ -514,6 +514,62 @@ const characters = {
             },
 
             'upperrank': {
+                'gyutaro': {
+                    'fullName': 'Gyutaro Shabana',
+                    'race': 'Demon',
+                    'gender': 'Male',
+                    'age': '126',
+                    'height': '',
+                    'weight': '',
+                    'birthday': '',
+                    'hairColor': 'Black to Lime Green',
+                    'eyeColor': 'Red with Yellow Sclera(Right) Lime Green with Yellow Sclera',
+                    'combatStyle': 'Blood Manipulation',
+                    'affiliation': 'Twelve Kizuki: Upper Six (formerly)'
+                },
+
+                'daki': {
+                    'fullName': 'Ume Shabana',
+                    'race': 'Demon',
+                    'gender': 'Female',
+                    'age': '124',
+                    'height': '',
+                    'weight': '',
+                    'birthday': '',
+                    'hairColor': 'Silver to Lime Green',
+                    'eyeColor': 'Lime Green',
+                    'combatStyle': 'Obi Sash Manipulation',
+                    'affiliation': 'Twelve Kizuki: Upper Six (formerly)'
+                },
+
+                'kaigaku': {
+                    'fullName': 'Kaigaku Inadama',
+                    'race': 'Demon',
+                    'gender': 'Male',
+                    'age': '',
+                    'height': '167cm (5.5)',
+                    'weight': '64kg (141lbs)',
+                    'birthday': '',
+                    'hairColor': 'Black',
+                    'eyeColor': 'Turquoise with Black Sclera',
+                    'combatStyle': 'Thunder Breathing',
+                    'affiliation': 'Twelve Kizuki: Upper Six'
+                },
+
+                'gyokko': {
+                    'fullName': 'Gyokko',
+                    'race': 'Demon',
+                    'gender': 'Male',
+                    'age': '133',
+                    'height': '150cm (4.11)(Normal)/170cm (5.7)(Molted)',
+                    'weight': '40kg (88lbs)(Normal)/80kg (176lbs)(Molted)',
+                    'birthday': '',
+                    'hairColor': 'Purple',
+                    'eyeColor': 'Honey Brown',
+                    'combatStyle': 'Porcelain Vase Spells',
+                    'affiliation': 'Twelve Kizuki: Upper Five (Formerly)'
+                },
+
                 
             }
         }
