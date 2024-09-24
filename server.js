@@ -601,15 +601,43 @@ const characters = {
                 'akaza': {
                     'fullName': 'Akaza',
                     'race': 'Demon',
-                    'gender': '',
-                    'age': '',
-                    'height': '',
-                    'weight': '',
+                    'gender': 'Male',
+                    'age': '133',
+                    'height': '173cm (5.8)',
+                    'weight': '74kg (163lbs)',
                     'birthday': '',
-                    'hairColor': '',
-                    'eyeColor': '',
-                    'combatStyle': '',
-                    'affiliation': ''
+                    'hairColor': 'Pink',
+                    'eyeColor': 'Yellow with Blue sclera',
+                    'combatStyle': 'Destructive Death',
+                    'affiliation': 'Twelve Kizuki: Upper Three'
+                },
+
+                'doma': {
+                    'fullName': 'Doma',
+                    'race': 'Demon',
+                    'gender': 'Male',
+                    'age': '133',
+                    'height': '187cm (6.1)',
+                    'weight': '86kg (190lbs)',
+                    'birthday': '',
+                    'hairColor': 'Blonde',
+                    'eyeColor': 'Rainbow',
+                    'combatStyle': 'Tessen Jujitsu/Cryokinesis',
+                    'affiliation': 'Twelve Kizuki: Upper Two'
+                },
+
+                'kokushibo': {
+                    'fullName': 'Kokushibo',
+                    'race': 'Demon',
+                    'gender': 'Male',
+                    'age': '480',
+                    'height': '190cm (6.3)',
+                    'weight': '93kg (205lbs)',
+                    'birthday': '',
+                    'hairColor': 'Black with Red tips',
+                    'eyeColor': 'Gold with Red Sclera',
+                    'combatStyle': 'Moon Breathing',
+                    'affiliation': 'Twelve Kizuki: Upper One'
                 }
             }
         }
