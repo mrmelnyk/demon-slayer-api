@@ -529,7 +529,7 @@ const characters = {
                 },
 
                 'daki': {
-                    'fullName': 'Ume Shabana',
+                    'fullName': 'Daki Shabana',
                     'race': 'Demon',
                     'gender': 'Female',
                     'age': '124',
@@ -570,7 +570,47 @@ const characters = {
                     'affiliation': 'Twelve Kizuki: Upper Five (Formerly)'
                 },
 
+                'hantengu': {
+                    'fullName': 'Hantengu',
+                    'race': 'Demon',
+                    'gender': 'Male',
+                    'age': '200',
+                    'height': '166cm (5.5)',
+                    'weight': '56kg (123lbs)',
+                    'birthday': '',
+                    'hairColor': 'Black',
+                    'eyeColor': 'Yellow with Red sclera',
+                    'combatStyle': 'Emotion Manifestation',
+                    'affiliation': 'Twelve Kizuki: Upper Four (Formerly)'
+                },
 
+                'nakime': {
+                    'fullName': 'Nakime',
+                    'race': 'Demon',
+                    'gender': 'Female',
+                    'age': '113',
+                    'height': '',
+                    'weight': '',
+                    'birthday': '',
+                    'hairColor': 'Black',
+                    'eyeColor': 'Pink',
+                    'combatStyle': 'Infinity Castle Manipulation',
+                    'affiliation': 'Twelve Kizuki: Upper Four'
+                },
+
+                'akaza': {
+                    'fullName': 'Akaza',
+                    'race': 'Demon',
+                    'gender': '',
+                    'age': '',
+                    'height': '',
+                    'weight': '',
+                    'birthday': '',
+                    'hairColor': '',
+                    'eyeColor': '',
+                    'combatStyle': '',
+                    'affiliation': ''
+                }
             }
         }
     },
