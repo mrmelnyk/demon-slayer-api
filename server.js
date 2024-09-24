@@ -425,7 +425,7 @@ const characters = {
                     'hairColor': 'Black',
                     'eyeColor': 'Red',
                     'combatStyle': 'Drum Spells',
-                    'affiliation': 'Twelve Kizuki: Lower Six(formerly)'
+                    'affiliation': 'Twelve Kizuki: Lower Six(Formerly)'
                 },
 
                 'kamanue': {
@@ -453,7 +453,7 @@ const characters = {
                     'hairColor': 'White',
                     'eyeColor': 'White',
                     'combatStyle': 'Thread Manipulation',
-                    'affiliation': 'Twelve Kizuki: Lower Five/Spider Famliy'
+                    'affiliation': 'Twelve Kizuki: Lower Five/Spider Family'
                 },
 
                 'mukago': {
@@ -525,7 +525,7 @@ const characters = {
                     'hairColor': 'Black to Lime Green',
                     'eyeColor': 'Red with Yellow Sclera(Right) Lime Green with Yellow Sclera',
                     'combatStyle': 'Blood Manipulation',
-                    'affiliation': 'Twelve Kizuki: Upper Six (formerly)'
+                    'affiliation': 'Twelve Kizuki: Upper Six (Formerly)'
                 },
 
                 'daki': {
@@ -539,7 +539,7 @@ const characters = {
                     'hairColor': 'Silver to Lime Green',
                     'eyeColor': 'Lime Green',
                     'combatStyle': 'Obi Sash Manipulation',
-                    'affiliation': 'Twelve Kizuki: Upper Six (formerly)'
+                    'affiliation': 'Twelve Kizuki: Upper Six (Formerly)'
                 },
 
                 'kaigaku': {
@@ -570,7 +570,7 @@ const characters = {
                     'affiliation': 'Twelve Kizuki: Upper Five (Formerly)'
                 },
 
-                
+
             }
         }
     },
