@@ -6,8 +6,8 @@ const PORT = 8000;
 app.use(cors());
 
 const characters = {
-    'demon slayer corp': {
-        'corp members': {
+    'charactername': {
+
             'tanjiro': {
                 'fullName': 'Tanjiro Kamado',
                 'race': 'Human',
@@ -76,10 +76,8 @@ const characters = {
                 'eyeColor': 'Dark Purple',
                 'combatStyle': 'Dual Weilding: Pistol & Katana',
                 'affiliation': 'Demon Slayer Corps'
-            }
-        },
+            },
 
-        'hashira': {
             'giyu': {
                 'fullName': 'Giyu Tomoika',
                 'race': 'Human',
@@ -204,42 +202,8 @@ const characters = {
                 'eyeColor': 'White',
                 'combatStyle': 'Stone Breathing',
                 'affiliation': 'Demon Slayer Corps Hashira'
-            }
-        }, 
-
-        'kakushi': {
-            'goto': {
-                'fullName': 'Goto',
-                'race': 'Human',
-                'gender': 'Male',
-                'age': '23',
-                'height': '',
-                'weight': '',
-                'birthday': '',
-                'hairColor': 'Black',
-                'eyeColor': 'Brown',
-                'combatStyle': '',
-                'affiliation': 'Kakushi Cleanup Brigade'
             },
 
-            'masao': {
-                'fullName': 'Masao Maeda',
-                'race': 'Human',
-                'gender': 'Male',
-                'age': '',
-                'height': '',
-                'weight': '',
-                'birthday': '',
-                'hairColor': 'Black',
-                'eyeColor': 'Black',
-                'combatStyle': '',
-                'affiliation': 'Kakushi Uniform Maker'
-            }
-        }
-    },
-
-    'demons': {
-        'unranked': {
             'nezuko': {
                 'fullName': 'Nezuko Kamado',
                 'race': 'Human/Demon',
@@ -352,9 +316,6 @@ const characters = {
                 'affiliation': 'None'
             },
 
-        },
-
-        'spider family': {
             'father': {
                 'fullName': 'Father Spider Demon',
                 'race': 'Demon',
@@ -409,238 +370,230 @@ const characters = {
                 'eyeColor': 'Silver',
                 'combatStyle': '',
                 'affiliation': 'Spider Family'
-            }
-        },
-
-        'kizuki': {
-            'lowerrank': {
-                'kyogai': {
-                    'fullName': 'Kyogai',
-                    'race': 'Demon',
-                    'gender': 'Male',
-                    'age': '',
-                    'height': '',
-                    'weight': '',
-                    'birthday': '',
-                    'hairColor': 'Black',
-                    'eyeColor': 'Red',
-                    'combatStyle': 'Drum Spells',
-                    'affiliation': 'Twelve Kizuki: Lower Six(Formerly)'
-                },
-
-                'kamanue': {
-                    'fullName': 'Kamanue',
-                    'race': 'Demon',
-                    'gender': 'Male',
-                    'age': '',
-                    'height': '',
-                    'weight': '',
-                    'birthday': '',
-                    'hairColor': 'Dark Brown to Orange',
-                    'eyeColor': 'Pale Blue',
-                    'combatStyle': '',
-                    'affiliation': 'Twelve Kizuki: Lower Six'
-                },
-
-                'rui': {
-                    'fullName': 'Rui Ayaki',
-                    'race': 'Demon',
-                    'gender': 'Male',
-                    'age': '30',
-                    'height': '135cm (4.5)',
-                    'weight': '30kg (66lbs)',
-                    'birthday': '',
-                    'hairColor': 'White',
-                    'eyeColor': 'White',
-                    'combatStyle': 'Thread Manipulation',
-                    'affiliation': 'Twelve Kizuki: Lower Five/Spider Family'
-                },
-
-                'mukago': {
-                    'fullName': 'Mukago',
-                    'race': 'Demon',
-                    'gender': 'Female',
-                    'age': '',
-                    'height': '',
-                    'weight': '',
-                    'birthday': '',
-                    'hairColor': 'White',
-                    'eyeColor': 'Greyish Purple',
-                    'combatStyle': '',
-                    'affiliation': 'Twelve Kizuki: Lower Four'
-                },
-
-                'wakuraba': {
-                    'fullName': 'Wakuraba',
-                    'race': 'Demon',
-                    'gender': 'Male',
-                    'age': '',
-                    'height': '',
-                    'weight': '',
-                    'birthday': '',
-                    'hairColor': 'Black',
-                    'eyeColor': 'Orange',
-                    'combatStyle': '',
-                    'affiliation': 'Twelve Kizuki: Lower Three'
-                },
-
-                'rokuro': {
-                    'fullName': 'Rokuro',
-                    'race': 'Demon',
-                    'gender': 'Male',
-                    'age': '',
-                    'height': '',
-                    'weight': '',
-                    'birthday': '',
-                    'hairColor': 'Dark Purple',
-                    'eyeColor': 'Gold',
-                    'combatStyle': '',
-                    'affiliation': 'Twelve Kizuki: Lower Two'
-                },
-
-                'enmu': {
-                    'fullName': 'Enmu Tamio',
-                    'race': 'Demon',
-                    'gender': 'Male',
-                    'age': '24',
-                    'height': '168cm (5.6)',
-                    'weight': '62kg (137lbs)',
-                    'birthday': '',
-                    'hairColor': 'Black to Pink',
-                    'eyeColor': 'Blue',
-                    'combatStyle': 'Sleep Manipulation',
-                    'affiliation': 'Twelve Kizuki: Lower One'
-                }
             },
 
-            'upperrank': {
-                'gyutaro': {
-                    'fullName': 'Gyutaro Shabana',
-                    'race': 'Demon',
-                    'gender': 'Male',
-                    'age': '126',
-                    'height': '',
-                    'weight': '',
-                    'birthday': '',
-                    'hairColor': 'Black to Lime Green',
-                    'eyeColor': 'Red with Yellow Sclera(Right) Lime Green with Yellow Sclera',
-                    'combatStyle': 'Blood Manipulation',
-                    'affiliation': 'Twelve Kizuki: Upper Six (Formerly)'
-                },
+            'kyogai': {
+                'fullName': 'Kyogai',
+                'race': 'Demon',
+                'gender': 'Male',
+                'age': '',
+                'height': '',
+                'weight': '',
+                'birthday': '',
+                'hairColor': 'Black',
+                'eyeColor': 'Red',
+                'combatStyle': 'Drum Spells',
+                'affiliation': 'Twelve Kizuki: Lower Six(Formerly)'
+            },
 
-                'daki': {
-                    'fullName': 'Daki Shabana',
-                    'race': 'Demon',
-                    'gender': 'Female',
-                    'age': '124',
-                    'height': '',
-                    'weight': '',
-                    'birthday': '',
-                    'hairColor': 'Silver to Lime Green',
-                    'eyeColor': 'Lime Green',
-                    'combatStyle': 'Obi Sash Manipulation',
-                    'affiliation': 'Twelve Kizuki: Upper Six (Formerly)'
-                },
+            'kamanue': {
+                'fullName': 'Kamanue',
+                'race': 'Demon',
+                'gender': 'Male',
+                'age': '',
+                'height': '',
+                'weight': '',
+                'birthday': '',
+                'hairColor': 'Dark Brown to Orange',
+                'eyeColor': 'Pale Blue',
+                'combatStyle': '',
+                'affiliation': 'Twelve Kizuki: Lower Six'
+            },
 
-                'kaigaku': {
-                    'fullName': 'Kaigaku Inadama',
-                    'race': 'Demon',
-                    'gender': 'Male',
-                    'age': '',
-                    'height': '167cm (5.5)',
-                    'weight': '64kg (141lbs)',
-                    'birthday': '',
-                    'hairColor': 'Black',
-                    'eyeColor': 'Turquoise with Black Sclera',
-                    'combatStyle': 'Thunder Breathing',
-                    'affiliation': 'Twelve Kizuki: Upper Six'
-                },
+            'rui': {
+                'fullName': 'Rui Ayaki',
+                'race': 'Demon',
+                'gender': 'Male',
+                'age': '30',
+                'height': '135cm (4.5)',
+                'weight': '30kg (66lbs)',
+                'birthday': '',
+                'hairColor': 'White',
+                'eyeColor': 'White',
+                'combatStyle': 'Thread Manipulation',
+                'affiliation': 'Twelve Kizuki: Lower Five/Spider Family'
+            },
 
-                'gyokko': {
-                    'fullName': 'Gyokko',
-                    'race': 'Demon',
-                    'gender': 'Male',
-                    'age': '133',
-                    'height': '150cm (4.11)(Normal)/170cm (5.7)(Molted)',
-                    'weight': '40kg (88lbs)(Normal)/80kg (176lbs)(Molted)',
-                    'birthday': '',
-                    'hairColor': 'Purple',
-                    'eyeColor': 'Honey Brown',
-                    'combatStyle': 'Porcelain Vase Spells',
-                    'affiliation': 'Twelve Kizuki: Upper Five (Formerly)'
-                },
+            'mukago': {
+                'fullName': 'Mukago',
+                'race': 'Demon',
+                'gender': 'Female',
+                'age': '',
+                'height': '',
+                'weight': '',
+                'birthday': '',
+                'hairColor': 'White',
+                'eyeColor': 'Greyish Purple',
+                'combatStyle': '',
+                'affiliation': 'Twelve Kizuki: Lower Four'
+            },
 
-                'hantengu': {
-                    'fullName': 'Hantengu',
-                    'race': 'Demon',
-                    'gender': 'Male',
-                    'age': '200',
-                    'height': '166cm (5.5)',
-                    'weight': '56kg (123lbs)',
-                    'birthday': '',
-                    'hairColor': 'Black',
-                    'eyeColor': 'Yellow with Red sclera',
-                    'combatStyle': 'Emotion Manifestation',
-                    'affiliation': 'Twelve Kizuki: Upper Four (Formerly)'
-                },
+            'wakuraba': {
+                'fullName': 'Wakuraba',
+                'race': 'Demon',
+                'gender': 'Male',
+                'age': '',
+                'height': '',
+                'weight': '',
+                'birthday': '',
+                'hairColor': 'Black',
+                'eyeColor': 'Orange',
+                'combatStyle': '',
+                'affiliation': 'Twelve Kizuki: Lower Three'
+            },
 
-                'nakime': {
-                    'fullName': 'Nakime',
-                    'race': 'Demon',
-                    'gender': 'Female',
-                    'age': '113',
-                    'height': '',
-                    'weight': '',
-                    'birthday': '',
-                    'hairColor': 'Black',
-                    'eyeColor': 'Pink',
-                    'combatStyle': 'Infinity Castle Manipulation',
-                    'affiliation': 'Twelve Kizuki: Upper Four'
-                },
+            'rokuro': {
+                'fullName': 'Rokuro',
+                'race': 'Demon',
+                'gender': 'Male',
+                'age': '',
+                'height': '',
+                'weight': '',
+                'birthday': '',
+                'hairColor': 'Dark Purple',
+                'eyeColor': 'Gold',
+                'combatStyle': '',
+                'affiliation': 'Twelve Kizuki: Lower Two'
+            },
 
-                'akaza': {
-                    'fullName': 'Akaza',
-                    'race': 'Demon',
-                    'gender': 'Male',
-                    'age': '133',
-                    'height': '173cm (5.8)',
-                    'weight': '74kg (163lbs)',
-                    'birthday': '',
-                    'hairColor': 'Pink',
-                    'eyeColor': 'Yellow with Blue sclera',
-                    'combatStyle': 'Destructive Death',
-                    'affiliation': 'Twelve Kizuki: Upper Three'
-                },
+            'enmu': {
+                'fullName': 'Enmu Tamio',
+                'race': 'Demon',
+                'gender': 'Male',
+                'age': '24',
+                'height': '168cm (5.6)',
+                'weight': '62kg (137lbs)',
+                'birthday': '',
+                'hairColor': 'Black to Pink',
+                'eyeColor': 'Blue',
+                'combatStyle': 'Sleep Manipulation',
+                'affiliation': 'Twelve Kizuki: Lower One'
+            },
 
-                'doma': {
-                    'fullName': 'Doma',
-                    'race': 'Demon',
-                    'gender': 'Male',
-                    'age': '133',
-                    'height': '187cm (6.1)',
-                    'weight': '86kg (190lbs)',
-                    'birthday': '',
-                    'hairColor': 'Blonde',
-                    'eyeColor': 'Rainbow',
-                    'combatStyle': 'Tessen Jujitsu/Cryokinesis',
-                    'affiliation': 'Twelve Kizuki: Upper Two'
-                },
+            'gyutaro': {
+                'fullName': 'Gyutaro Shabana',
+                'race': 'Demon',
+                'gender': 'Male',
+                'age': '126',
+                'height': '',
+                'weight': '',
+                'birthday': '',
+                'hairColor': 'Black to Lime Green',
+                'eyeColor': 'Red with Yellow Sclera(Right) Lime Green with Yellow Sclera',
+                'combatStyle': 'Blood Manipulation',
+                'affiliation': 'Twelve Kizuki: Upper Six (Formerly)'
+            },
+            'daki': {
+                'fullName': 'Daki Shabana',
+                'race': 'Demon',
+                'gender': 'Female',
+                'age': '124',
+                'height': '',
+                'weight': '',
+                'birthday': '',
+                'hairColor': 'Silver to Lime Green',
+                'eyeColor': 'Lime Green',
+                'combatStyle': 'Obi Sash Manipulation',
+                'affiliation': 'Twelve Kizuki: Upper Six (Formerly)'
+            },
 
-                'kokushibo': {
-                    'fullName': 'Kokushibo',
-                    'race': 'Demon',
-                    'gender': 'Male',
-                    'age': '480',
-                    'height': '190cm (6.3)',
-                    'weight': '93kg (205lbs)',
-                    'birthday': '',
-                    'hairColor': 'Black with Red tips',
-                    'eyeColor': 'Gold with Red Sclera',
-                    'combatStyle': 'Moon Breathing',
-                    'affiliation': 'Twelve Kizuki: Upper One'
-                }
+            'kaigaku': {
+                'fullName': 'Kaigaku Inadama',
+                'race': 'Demon',
+                'gender': 'Male',
+                'age': '',
+                'height': '167cm (5.5)',
+                'weight': '64kg (141lbs)',
+                'birthday': '',
+                'hairColor': 'Black',
+                'eyeColor': 'Turquoise with Black Sclera',
+                'combatStyle': 'Thunder Breathing',
+                'affiliation': 'Twelve Kizuki: Upper Six'
+            },
+
+            'gyokko': {
+                'fullName': 'Gyokko',
+                'race': 'Demon',
+                'gender': 'Male',
+                'age': '133',
+                'height': '150cm (4.11)(Normal)/170cm (5.7)(Molted)',
+                'weight': '40kg (88lbs)(Normal)/80kg (176lbs)(Molted)',
+                'birthday': '',
+                'hairColor': 'Purple',
+                'eyeColor': 'Honey Brown',
+                'combatStyle': 'Porcelain Vase Spells',
+                'affiliation': 'Twelve Kizuki: Upper Five (Formerly)'
+            },
+
+            'hantengu': {
+                'fullName': 'Hantengu',
+                'race': 'Demon',
+                'gender': 'Male',
+                'age': '200',
+                'height': '166cm (5.5)',
+                'weight': '56kg (123lbs)',
+                'birthday': '',
+                'hairColor': 'Black',
+                'eyeColor': 'Yellow with Red sclera',
+                'combatStyle': 'Emotion Manifestation',
+                'affiliation': 'Twelve Kizuki: Upper Four (Formerly)'
+            },
+
+            'nakime': {
+                'fullName': 'Nakime',
+                'race': 'Demon',
+                'gender': 'Female',
+                'age': '113',
+                'height': '',
+                'weight': '',
+                'birthday': '',
+                'hairColor': 'Black',
+                'eyeColor': 'Pink',
+                'combatStyle': 'Infinity Castle Manipulation',
+                'affiliation': 'Twelve Kizuki: Upper Four'
+            },
+
+            'akaza': {
+                'fullName': 'Akaza',
+                'race': 'Demon',
+                'gender': 'Male',
+                'age': '133',
+                'height': '173cm (5.8)',
+                'weight': '74kg (163lbs)',
+                'birthday': '',
+                'hairColor': 'Pink',
+                'eyeColor': 'Yellow with Blue sclera',
+                'combatStyle': 'Destructive Death',
+                'affiliation': 'Twelve Kizuki: Upper Three'
+            },
+
+            'doma': {
+                'fullName': 'Doma',
+                'race': 'Demon',
+                'gender': 'Male',
+                'age': '133',
+                'height': '187cm (6.1)',
+                'weight': '86kg (190lbs)',
+                'birthday': '',
+                'hairColor': 'Blonde',
+                'eyeColor': 'Rainbow',
+                'combatStyle': 'Tessen Jujitsu/Cryokinesis',
+                'affiliation': 'Twelve Kizuki: Upper Two'
+            },
+
+            'kokushibo': {
+                'fullName': 'Kokushibo',
+                'race': 'Demon',
+                'gender': 'Male',
+                'age': '480',
+                'height': '190cm (6.3)',
+                'weight': '93kg (205lbs)',
+                'birthday': '',
+                'hairColor': 'Black with Red tips',
+                'eyeColor': 'Gold with Red Sclera',
+                'combatStyle': 'Moon Breathing',
+                'affiliation': 'Twelve Kizuki: Upper One'
             }
-        }
     },
 
     'unknown': {
