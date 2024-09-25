@@ -6,7 +6,7 @@ const PORT = 8000;
 app.use(cors());
 
 const characters = {
-    'charactername': {
+    'characters': {
 
             'tanjiro': {
                 'fullName': 'Tanjiro Kamado',
