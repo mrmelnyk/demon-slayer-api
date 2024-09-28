@@ -19,7 +19,8 @@ const characters = {
                 'hairColor': 'Black to Red',
                 'eyeColor': 'Dark Red',
                 'combatStyle': 'Water Breathing/Sun Breathing (Hirokami Kagara)',
-                'affiliation': 'Demon Slayer Corps'
+                'affiliation': 'Demon Slayer Corps',
+                'power': ''
             },
         
             'zenistu': {
@@ -33,7 +34,8 @@ const characters = {
                 'hairColor': 'Blonde to Orange',
                 'eyeColor': 'Brown',
                 'combatStyle': 'Thunder Breathing',
-                'affiliation': 'Demon Slayer Corps'
+                'affiliation': 'Demon Slayer Corps',
+                'power': ''
             },
         
             'inosuke': {
@@ -47,7 +49,8 @@ const characters = {
                 'hairColor': 'Black to Blue',
                 'eyeColor': 'Green',
                 'combatStyle': 'Beast Breathing',
-                'affiliation': 'Demon Slayer Corps'
+                'affiliation': 'Demon Slayer Corps',
+                'power': ''
             },
 
             'kanao': {
@@ -61,7 +64,8 @@ const characters = {
                 'hairColor': 'Black',
                 'eyeColor': 'Purple',
                 'combatStyle': 'Flower Breathing',
-                'affiliation': 'Demon Slayer Corps'
+                'affiliation': 'Demon Slayer Corps',
+                'power': ''
             },
 
             'genya': {
@@ -75,7 +79,8 @@ const characters = {
                 'hairColor': 'Black',
                 'eyeColor': 'Dark Purple',
                 'combatStyle': 'Dual Weilding: Pistol & Katana',
-                'affiliation': 'Demon Slayer Corps'
+                'affiliation': 'Demon Slayer Corps',
+                'power': ''
             },
 
             'giyu': {
@@ -89,7 +94,8 @@ const characters = {
                 'hairColor': 'Black',
                 'eyeColor': 'Blue',
                 'combatStyle': 'Water Breathing',
-                'affiliation': 'Demon Slayer Corps Hashira'
+                'affiliation': 'Demon Slayer Corps Hashira',
+                'power': ''
             },
 
             'shinobu': {
@@ -103,7 +109,8 @@ const characters = {
                 'hairColor': 'Black to Purple',
                 'eyeColor': 'Purple',
                 'combatStyle': 'Insect Breathing',
-                'affiliation': 'Demon Slayer Corps Hashira'
+                'affiliation': 'Demon Slayer Corps Hashira',
+                'power': ''
             },
 
             'rengoku': {
@@ -117,7 +124,8 @@ const characters = {
                 'hairColor': 'Gold with Red Tips',
                 'eyeColor': 'Gold with Red Irises',
                 'combatStyle': 'Flame Breathing',
-                'affiliation': 'Demon Slayer Corps Hashira'
+                'affiliation': 'Demon Slayer Corps Hashira',
+                'power': ''
             },
 
             'tengen': {
@@ -131,7 +139,8 @@ const characters = {
                 'hairColor': 'White',
                 'eyeColor': 'Fuchsia',
                 'combatStyle': 'Sound Breathing',
-                'affiliation': 'Demon Slayer Corps Hashira'
+                'affiliation': 'Demon Slayer Corps Hashira',
+                'power': ''
             },
 
             'muichiro': {
@@ -145,7 +154,8 @@ const characters = {
                 'hairColor': 'Black to Cyan',
                 'eyeColor': 'Cyan',
                 'combatStyle': 'Mist Breathing',
-                'affiliation': 'Demon Slayer Corps Hashira'
+                'affiliation': 'Demon Slayer Corps Hashira',
+                'power': ''
             },
 
             'kanroji': {
@@ -159,7 +169,8 @@ const characters = {
                 'hairColor': 'Pink to Green',
                 'eyeColor': 'Green',
                 'combatStyle': 'Love Breathing',
-                'affiliation': 'Demon Slayer Corps Hashira'
+                'affiliation': 'Demon Slayer Corps Hashira',
+                'power': ''
             },
 
             'obanai': {
@@ -173,7 +184,8 @@ const characters = {
                 'hairColor': 'Black',
                 'eyeColor': 'Teal(Left) Yellow(Right)',
                 'combatStyle': 'Serpent Breathing',
-                'affiliation': 'Demon Slayer Corps Hashira'
+                'affiliation': 'Demon Slayer Corps Hashira',
+                'power': ''
             },
 
             'shinazugawa': {
@@ -187,7 +199,8 @@ const characters = {
                 'hairColor': 'White',
                 'eyeColor': 'Light Purple',
                 'combatStyle': 'Wind Breathing',
-                'affiliation': 'Demon Slayer Corps Hashira'
+                'affiliation': 'Demon Slayer Corps Hashira',
+                'power': ''
             },
 
             'himejima': {
@@ -201,7 +214,8 @@ const characters = {
                 'hairColor': 'Black',
                 'eyeColor': 'White',
                 'combatStyle': 'Stone Breathing',
-                'affiliation': 'Demon Slayer Corps Hashira'
+                'affiliation': 'Demon Slayer Corps Hashira',
+                'power': ''
             },
 
             'nezuko': {
@@ -215,7 +229,8 @@ const characters = {
                 'hairColor': 'Black to Orange',
                 'eyeColor': 'Pink',
                 'combatStyle': 'Blood Demon Art: Combustible Blood',
-                'affiliation': 'Demon Slayer Corps'
+                'affiliation': 'Demon Slayer Corps',
+                'power': ''
             },
 
             'muzan': {
@@ -229,7 +244,8 @@ const characters = {
                 'hairColor': 'Black',
                 'eyeColor': 'Red',
                 'combatStyle': 'Biokinesis',
-                'affiliation': 'Leader of the Twelve Kizuki'
+                'affiliation': 'Leader of the Twelve Kizuki',
+                'power': ''
             },
 
             'tamayo': {
@@ -243,7 +259,8 @@ const characters = {
                 'hairColor': 'Dark Brown',
                 'eyeColor': 'Purple to Lavender',
                 'combatStyle': 'Blood Demon Art: Blood Bewitchment',
-                'affiliation': 'Demon Slayer Corps'
+                'affiliation': 'Demon Slayer Corps',
+                'power': ''
             },
 
             'yushiro': {
@@ -257,7 +274,8 @@ const characters = {
                 'hairColor': 'Mint Green to Black',
                 'eyeColor': 'Lavender',
                 'combatStyle': 'Blood Demon Art: Blindfold',
-                'affiliation': 'Demon Slayer Corps'
+                'affiliation': 'Demon Slayer Corps',
+                'power': ''
             },
 
             'susamaru': {
@@ -271,7 +289,8 @@ const characters = {
                 'hairColor': 'Black to Orange',
                 'eyeColor': 'Yellow',
                 'combatStyle': 'Hiasobi Temari',
-                'affiliation': 'Muzan Kibutsuji'
+                'affiliation': 'Muzan Kibutsuji',
+                'power': ''
             },
 
             'yahaba': {
@@ -285,7 +304,8 @@ const characters = {
                 'hairColor': 'Black',
                 'eyeColor': 'Red',
                 'combatStyle': 'Koketsu Arrow',
-                'affiliation': 'Muzan Kibutsuji'
+                'affiliation': 'Muzan Kibutsuji',
+                'power': ''
             },
 
             'hand demon': {
@@ -299,7 +319,8 @@ const characters = {
                 'hairColor': 'Black',
                 'eyeColor': 'Yellow',
                 'combatStyle': 'Hand Manipulation',
-                'affiliation': 'None'
+                'affiliation': 'None',
+                'power': ''
             },
 
             'swamp demon': {
@@ -313,7 +334,8 @@ const characters = {
                 'hairColor': 'Dark Blue and Violet',
                 'eyeColor': 'Red',
                 'combatStyle': 'Swamp Domain',
-                'affiliation': 'None'
+                'affiliation': 'None',
+                'power': ''
             },
 
             'father': {
@@ -327,7 +349,8 @@ const characters = {
                 'hairColor': 'Silver',
                 'eyeColor': 'Teal',
                 'combatStyle': '',
-                'affiliation': 'Spider Family'
+                'affiliation': 'Spider Family',
+                'power': ''
             },
 
             'mother': {
@@ -341,7 +364,8 @@ const characters = {
                 'hairColor': 'White',
                 'eyeColor': 'Light Blue to Pale Green',
                 'combatStyle': 'Puppeteer',
-                'affiliation': 'Spider Family'
+                'affiliation': 'Spider Family',
+                'power': ''
             },
 
             'son': {
@@ -355,7 +379,8 @@ const characters = {
                 'hairColor': 'Grey',
                 'eyeColor': 'Red(Left) Light Green(Right)',
                 'combatStyle': '',
-                'affiliation': 'Spider Family'
+                'affiliation': 'Spider Family',
+                'power': ''
             },
 
             'daughter': {
@@ -369,7 +394,8 @@ const characters = {
                 'hairColor': 'White',
                 'eyeColor': 'Silver',
                 'combatStyle': '',
-                'affiliation': 'Spider Family'
+                'affiliation': 'Spider Family',
+                'power': ''
             },
 
             'kyogai': {
@@ -383,7 +409,8 @@ const characters = {
                 'hairColor': 'Black',
                 'eyeColor': 'Red',
                 'combatStyle': 'Drum Spells',
-                'affiliation': 'Twelve Kizuki: Lower Six(Formerly)'
+                'affiliation': 'Twelve Kizuki: Lower Six(Formerly)',
+                'power': ''
             },
 
             'kamanue': {
@@ -397,7 +424,8 @@ const characters = {
                 'hairColor': 'Dark Brown to Orange',
                 'eyeColor': 'Pale Blue',
                 'combatStyle': '',
-                'affiliation': 'Twelve Kizuki: Lower Six'
+                'affiliation': 'Twelve Kizuki: Lower Six',
+                'power': ''
             },
 
             'rui': {
@@ -411,7 +439,8 @@ const characters = {
                 'hairColor': 'White',
                 'eyeColor': 'White',
                 'combatStyle': 'Thread Manipulation',
-                'affiliation': 'Twelve Kizuki: Lower Five/Spider Family'
+                'affiliation': 'Twelve Kizuki: Lower Five/Spider Family',
+                'power': ''
             },
 
             'mukago': {
@@ -425,7 +454,8 @@ const characters = {
                 'hairColor': 'White',
                 'eyeColor': 'Greyish Purple',
                 'combatStyle': '',
-                'affiliation': 'Twelve Kizuki: Lower Four'
+                'affiliation': 'Twelve Kizuki: Lower Four',
+                'power': ''
             },
 
             'wakuraba': {
@@ -439,7 +469,8 @@ const characters = {
                 'hairColor': 'Black',
                 'eyeColor': 'Orange',
                 'combatStyle': '',
-                'affiliation': 'Twelve Kizuki: Lower Three'
+                'affiliation': 'Twelve Kizuki: Lower Three',
+                'power': ''
             },
 
             'rokuro': {
@@ -453,7 +484,8 @@ const characters = {
                 'hairColor': 'Dark Purple',
                 'eyeColor': 'Gold',
                 'combatStyle': '',
-                'affiliation': 'Twelve Kizuki: Lower Two'
+                'affiliation': 'Twelve Kizuki: Lower Two',
+                'power': ''
             },
 
             'enmu': {
@@ -467,7 +499,8 @@ const characters = {
                 'hairColor': 'Black to Pink',
                 'eyeColor': 'Blue',
                 'combatStyle': 'Sleep Manipulation',
-                'affiliation': 'Twelve Kizuki: Lower One'
+                'affiliation': 'Twelve Kizuki: Lower One',
+                'power': ''
             },
 
             'gyutaro': {
@@ -481,7 +514,8 @@ const characters = {
                 'hairColor': 'Black to Lime Green',
                 'eyeColor': 'Red with Yellow Sclera(Right) Lime Green with Yellow Sclera',
                 'combatStyle': 'Blood Manipulation',
-                'affiliation': 'Twelve Kizuki: Upper Six (Formerly)'
+                'affiliation': 'Twelve Kizuki: Upper Six (Formerly)',
+                'power': ''
             },
             'daki': {
                 'fullName': 'Daki Shabana',
@@ -494,7 +528,8 @@ const characters = {
                 'hairColor': 'Silver to Lime Green',
                 'eyeColor': 'Lime Green',
                 'combatStyle': 'Obi Sash Manipulation',
-                'affiliation': 'Twelve Kizuki: Upper Six (Formerly)'
+                'affiliation': 'Twelve Kizuki: Upper Six (Formerly)',
+                'power': ''
             },
 
             'kaigaku': {
@@ -508,7 +543,8 @@ const characters = {
                 'hairColor': 'Black',
                 'eyeColor': 'Turquoise with Black Sclera',
                 'combatStyle': 'Thunder Breathing',
-                'affiliation': 'Twelve Kizuki: Upper Six'
+                'affiliation': 'Twelve Kizuki: Upper Six',
+                'power': ''
             },
 
             'gyokko': {
@@ -522,7 +558,8 @@ const characters = {
                 'hairColor': 'Purple',
                 'eyeColor': 'Honey Brown',
                 'combatStyle': 'Porcelain Vase Spells',
-                'affiliation': 'Twelve Kizuki: Upper Five (Formerly)'
+                'affiliation': 'Twelve Kizuki: Upper Five (Formerly)',
+                'power': ''
             },
 
             'hantengu': {
@@ -536,7 +573,8 @@ const characters = {
                 'hairColor': 'Black',
                 'eyeColor': 'Yellow with Red sclera',
                 'combatStyle': 'Emotion Manifestation',
-                'affiliation': 'Twelve Kizuki: Upper Four (Formerly)'
+                'affiliation': 'Twelve Kizuki: Upper Four (Formerly)',
+                'power': ''
             },
 
             'nakime': {
@@ -550,7 +588,8 @@ const characters = {
                 'hairColor': 'Black',
                 'eyeColor': 'Pink',
                 'combatStyle': 'Infinity Castle Manipulation',
-                'affiliation': 'Twelve Kizuki: Upper Four'
+                'affiliation': 'Twelve Kizuki: Upper Four',
+                'power': ''
             },
 
             'akaza': {
@@ -564,7 +603,8 @@ const characters = {
                 'hairColor': 'Pink',
                 'eyeColor': 'Yellow with Blue sclera',
                 'combatStyle': 'Destructive Death',
-                'affiliation': 'Twelve Kizuki: Upper Three'
+                'affiliation': 'Twelve Kizuki: Upper Three',
+                'power': ''
             },
 
             'doma': {
@@ -578,7 +618,8 @@ const characters = {
                 'hairColor': 'Blonde',
                 'eyeColor': 'Rainbow',
                 'combatStyle': 'Tessen Jujitsu/Cryokinesis',
-                'affiliation': 'Twelve Kizuki: Upper Two'
+                'affiliation': 'Twelve Kizuki: Upper Two',
+                'power': ''
             },
 
             'kokushibo': {
@@ -592,7 +633,8 @@ const characters = {
                 'hairColor': 'Black with Red tips',
                 'eyeColor': 'Gold with Red Sclera',
                 'combatStyle': 'Moon Breathing',
-                'affiliation': 'Twelve Kizuki: Upper One'
+                'affiliation': 'Twelve Kizuki: Upper One',
+                'power': ''
             }
     },
 
@@ -607,7 +649,8 @@ const characters = {
         'hairColor': '',
         'eyeColor': '',
         'combatStyle': '',
-        'affiliation': ''
+        'affiliation': '',
+        'power': ''
     }
     
 }
