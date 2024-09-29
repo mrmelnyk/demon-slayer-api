@@ -8,7 +8,7 @@ app.use(cors());
 const characters = {
     'characters': {
 
-            'tanjiro': {
+            'tanjiro final selection': {
                 'fullName': 'Tanjiro Kamado',
                 'race': 'Human',
                 'gender': 'Male',
@@ -18,9 +18,10 @@ const characters = {
                 'birthday': 'July 14',
                 'hairColor': 'Black to Red',
                 'eyeColor': 'Dark Red',
-                'combatStyle': 'Water Breathing/Sun Breathing (Hirokami Kagara)',
+                'combatStyle': 'Water Breathing',
                 'affiliation': 'Demon Slayer Corps',
-                'power': ''
+                'arc': 'Unwavering Resolve: Final Selection',
+                'power': '60'
             },
         
             'zenistu': {
@@ -35,7 +36,8 @@ const characters = {
                 'eyeColor': 'Brown',
                 'combatStyle': 'Thunder Breathing',
                 'affiliation': 'Demon Slayer Corps',
-                'power': ''
+                'arc': 'Unwavering Resolve: Final Selection',
+                'power': '50'
             },
         
             'inosuke': {
@@ -50,7 +52,8 @@ const characters = {
                 'eyeColor': 'Green',
                 'combatStyle': 'Beast Breathing',
                 'affiliation': 'Demon Slayer Corps',
-                'power': ''
+                'arc': 'Unwavering Resolve: Final Selection',
+                'power': '60'
             },
 
             'kanao': {
