@@ -133,7 +133,7 @@ const characters = {
                 'combatStyle': 'Water Breathing',
                 'affiliation': 'Demon Slayer Corps',
                 'arc': 'Mugen Train Arc: Water Breathing',
-                'power': '120'
+                'power': '200'
             },
         
             'zenistu': {
