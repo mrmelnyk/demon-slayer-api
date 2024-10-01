@@ -103,6 +103,38 @@ const characters = {
                 'arc': 'Unwavering Resolve: Mt. Natagumo Hinokami Kagura',
                 'power': '200'
             },
+
+            'tanjiro butterfly mansion': {
+                'fullName': 'Tanjiro Kamado',
+                'race': 'Human',
+                'gender': 'Male',
+                'age': '16',
+                'height': '165cm (5.5)',
+                'weight': '61kg (134lb)',
+                'birthday': 'July 14',
+                'hairColor': 'Black to Red',
+                'eyeColor': 'Dark Red',
+                'combatStyle': 'Water Breathing',
+                'affiliation': 'Demon Slayer Corps',
+                'arc': 'Unwavering Resolve: Total Concentration Breathing',
+                'power': '180'
+            },
+
+            'tanjiro mugen train': {
+                'fullName': 'Tanjiro Kamado',
+                'race': 'Human',
+                'gender': 'Male',
+                'age': '16',
+                'height': '165cm (5.5)',
+                'weight': '61kg (134lb)',
+                'birthday': 'July 14',
+                'hairColor': 'Black to Red',
+                'eyeColor': 'Dark Red',
+                'combatStyle': 'Water Breathing',
+                'affiliation': 'Demon Slayer Corps',
+                'arc': 'Mugen Train Arc: Water Breathing',
+                'power': '120'
+            },
         
             'zenistu': {
                 'fullName': 'Zenitsu Agatsuma',
