@@ -23,6 +23,22 @@ const characters = {
                 'arc': 'Unwavering Resolve: Final Selection',
                 'power': '60'
             },
+
+            'tanjiro mt natagumo': {
+                'fullName': 'Tanjiro Kamado',
+                'race': 'Human',
+                'gender': 'Male',
+                'age': '16',
+                'height': '165cm (5.5)',
+                'weight': '61kg (134lb)',
+                'birthday': 'July 14',
+                'hairColor': 'Black to Red',
+                'eyeColor': 'Dark Red',
+                'combatStyle': 'Water Breathing',
+                'affiliation': 'Demon Slayer Corps',
+                'arc': 'Unwavering Resolve: Mt. Natagumo',
+                'power': '90'
+            },
         
             'zenistu': {
                 'fullName': 'Zenitsu Agatsuma',
