@@ -24,6 +24,54 @@ const characters = {
                 'power': '60'
             },
 
+            'tanjiro first mission': {
+                'fullName': 'Tanjiro Kamado',
+                'race': 'Human',
+                'gender': 'Male',
+                'age': '16',
+                'height': '165cm (5.5)',
+                'weight': '61kg (134lb)',
+                'birthday': 'July 14',
+                'hairColor': 'Black to Red',
+                'eyeColor': 'Dark Red',
+                'combatStyle': 'Water Breathing',
+                'affiliation': 'Demon Slayer Corps',
+                'arc': 'Unwavering Resolve: First Mission',
+                'power': '70'
+            },
+
+            'tanjiro asakusa': {
+                'fullName': 'Tanjiro Kamado',
+                'race': 'Human',
+                'gender': 'Male',
+                'age': '16',
+                'height': '165cm (5.5)',
+                'weight': '61kg (134lb)',
+                'birthday': 'July 14',
+                'hairColor': 'Black to Red',
+                'eyeColor': 'Dark Red',
+                'combatStyle': 'Water Breathing',
+                'affiliation': 'Demon Slayer Corps',
+                'arc': 'Unwavering Resolve: Asakusa, Tokyo',
+                'power': '80'
+            },
+
+            'tanjiro tsuzumi mansion': {
+                'fullName': 'Tanjiro Kamado',
+                'race': 'Human',
+                'gender': 'Male',
+                'age': '16',
+                'height': '165cm (5.5)',
+                'weight': '61kg (134lb)',
+                'birthday': 'July 14',
+                'hairColor': 'Black to Red',
+                'eyeColor': 'Dark Red',
+                'combatStyle': 'Water Breathing',
+                'affiliation': 'Demon Slayer Corps',
+                'arc': 'Unwavering Resolve: Tsuzumi Mansion',
+                'power': '100'
+            },
+
             'tanjiro mt natagumo': {
                 'fullName': 'Tanjiro Kamado',
                 'race': 'Human',
@@ -37,7 +85,23 @@ const characters = {
                 'combatStyle': 'Water Breathing',
                 'affiliation': 'Demon Slayer Corps',
                 'arc': 'Unwavering Resolve: Mt. Natagumo',
-                'power': '90'
+                'power': '120'
+            },
+
+            'tanjiro mt natagumo': {
+                'fullName': 'Tanjiro Kamado',
+                'race': 'Human',
+                'gender': 'Male',
+                'age': '16',
+                'height': '165cm (5.5)',
+                'weight': '61kg (134lb)',
+                'birthday': 'July 14',
+                'hairColor': 'Black to Red',
+                'eyeColor': 'Dark Red',
+                'combatStyle': 'Water Breathing',
+                'affiliation': 'Demon Slayer Corps',
+                'arc': 'Unwavering Resolve: Mt. Natagumo Hinokami Kagura',
+                'power': '200'
             },
         
             'zenistu': {
