@@ -21,7 +21,7 @@ const characters = {
                 'combatStyle': 'Water Breathing',
                 'affiliation': 'Demon Slayer Corps',
                 'arc': 'Unwavering Resolve: Final Selection',
-                'power': '60'
+                'power': 60
             },
 
             'tanjiro first mission': {
@@ -37,7 +37,7 @@ const characters = {
                 'combatStyle': 'Water Breathing',
                 'affiliation': 'Demon Slayer Corps',
                 'arc': 'Unwavering Resolve: First Mission',
-                'power': '70'
+                'power': 70
             },
 
             'tanjiro asakusa': {
@@ -53,7 +53,7 @@ const characters = {
                 'combatStyle': 'Water Breathing',
                 'affiliation': 'Demon Slayer Corps',
                 'arc': 'Unwavering Resolve: Asakusa, Tokyo',
-                'power': '80'
+                'power': 80
             },
 
             'tanjiro tsuzumi mansion': {
@@ -69,7 +69,7 @@ const characters = {
                 'combatStyle': 'Water Breathing',
                 'affiliation': 'Demon Slayer Corps',
                 'arc': 'Unwavering Resolve: Tsuzumi Mansion',
-                'power': '100'
+                'power': 100
             },
 
             'tanjiro mt natagumo': {
@@ -85,7 +85,7 @@ const characters = {
                 'combatStyle': 'Water Breathing',
                 'affiliation': 'Demon Slayer Corps',
                 'arc': 'Unwavering Resolve: Mt. Natagumo',
-                'power': '120'
+                'power': 120
             },
 
             'tanjiro mt natagumo': {
@@ -101,7 +101,7 @@ const characters = {
                 'combatStyle': 'Water Breathing',
                 'affiliation': 'Demon Slayer Corps',
                 'arc': 'Unwavering Resolve: Mt. Natagumo Hinokami Kagura',
-                'power': '200'
+                'power': 200
             },
 
             'tanjiro butterfly mansion': {
@@ -117,7 +117,7 @@ const characters = {
                 'combatStyle': 'Water Breathing',
                 'affiliation': 'Demon Slayer Corps',
                 'arc': 'Unwavering Resolve: Total Concentration Breathing',
-                'power': '180'
+                'power': 180
             },
 
             'tanjiro mugen train': {
@@ -133,7 +133,7 @@ const characters = {
                 'combatStyle': 'Water Breathing',
                 'affiliation': 'Demon Slayer Corps',
                 'arc': 'Mugen Train Arc: Water Breathing',
-                'power': '200'
+                'power': 200
             },
         
             'zenistu': {
