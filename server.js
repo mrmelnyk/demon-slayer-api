@@ -135,6 +135,38 @@ const characters = {
                 'arc': 'Mugen Train Arc: Water Breathing',
                 'power': 200
             },
+
+            'tanjiro mugen train hinokami kagura': {
+                'fullName': 'Tanjiro Kamado',
+                'race': 'Human',
+                'gender': 'Male',
+                'age': '16',
+                'height': '165cm (5.5)',
+                'weight': '61kg (134lb)',
+                'birthday': 'July 14',
+                'hairColor': 'Black to Red',
+                'eyeColor': 'Dark Red',
+                'combatStyle': 'Water Breathing',
+                'affiliation': 'Demon Slayer Corps',
+                'arc': 'Mugen Train Arc: Hinokami Kagura',
+                'power': 350
+            },
+
+            'tanjiro entertainment district': {
+                'fullName': 'Tanjiro Kamado',
+                'race': 'Human',
+                'gender': 'Male',
+                'age': '16',
+                'height': '165cm (5.5)',
+                'weight': '61kg (134lb)',
+                'birthday': 'July 14',
+                'hairColor': 'Black to Red',
+                'eyeColor': 'Dark Red',
+                'combatStyle': 'Water Breathing',
+                'affiliation': 'Demon Slayer Corps',
+                'arc': 'Entertainment District Arc: Water & Sun Breathing',
+                'power': 400
+            },
         
             'zenistu': {
                 'fullName': 'Zenitsu Agatsuma',
