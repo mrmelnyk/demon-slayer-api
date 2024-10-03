@@ -197,7 +197,7 @@ const characters = {
                 'combatStyle': 'Thunder Breathing',
                 'affiliation': 'Demon Slayer Corps',
                 'arc': 'Unwavering Resolve: Final Selection',
-                'power': '50'
+                'power': 50
             },
         
             'inosuke': {
@@ -213,7 +213,7 @@ const characters = {
                 'combatStyle': 'Beast Breathing',
                 'affiliation': 'Demon Slayer Corps',
                 'arc': 'Unwavering Resolve: Final Selection',
-                'power': '60'
+                'power': 60
             },
 
             'kanao': {
