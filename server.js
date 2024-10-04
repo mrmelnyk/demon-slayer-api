@@ -228,7 +228,7 @@ const characters = {
                 'eyeColor': 'Purple',
                 'combatStyle': 'Flower Breathing',
                 'affiliation': 'Demon Slayer Corps',
-                'power': ''
+                'power': 160
             },
 
             'genya': {
