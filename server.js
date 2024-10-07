@@ -184,7 +184,7 @@ const characters = {
                 'power': 600
             },
         
-            'zenistu': {
+            'zenistu final selection': {
                 'fullName': 'Zenitsu Agatsuma',
                 'race': 'Human',
                 'gender': 'Male',
