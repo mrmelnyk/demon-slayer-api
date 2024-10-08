@@ -199,6 +199,22 @@ const characters = {
                 'arc': 'Unwavering Resolve: Final Selection',
                 'power': 50
             },
+
+            'zenistu tsuzumi mansion': {
+                'fullName': 'Zenitsu Agatsuma',
+                'race': 'Human',
+                'gender': 'Male',
+                'age': '16',
+                'height': '164cm (5.4)',
+                'weight': '58kg (128lbs)',
+                'birthday': 'September 3',
+                'hairColor': 'Blonde to Orange',
+                'eyeColor': 'Brown',
+                'combatStyle': 'Thunder Breathing',
+                'affiliation': 'Demon Slayer Corps',
+                'arc': 'Unwavering Resolve: Tsuzumi Mansion',
+                'power': 80
+            },
         
             'inosuke': {
                 'fullName': 'Inosuke Hashibira',
