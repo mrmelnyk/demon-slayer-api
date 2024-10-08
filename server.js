@@ -215,6 +215,38 @@ const characters = {
                 'arc': 'Unwavering Resolve: Tsuzumi Mansion',
                 'power': 80
             },
+
+            'zenistu mt natagumo': {
+                'fullName': 'Zenitsu Agatsuma',
+                'race': 'Human',
+                'gender': 'Male',
+                'age': '16',
+                'height': '164cm (5.4)',
+                'weight': '58kg (128lbs)',
+                'birthday': 'September 3',
+                'hairColor': 'Blonde to Orange',
+                'eyeColor': 'Brown',
+                'combatStyle': 'Thunder Breathing',
+                'affiliation': 'Demon Slayer Corps',
+                'arc': 'Unwavering Resolve: Mt. Natagumo',
+                'power': 90
+            },
+
+            'zenistu butterfly mansion': {
+                'fullName': 'Zenitsu Agatsuma',
+                'race': 'Human',
+                'gender': 'Male',
+                'age': '16',
+                'height': '164cm (5.4)',
+                'weight': '58kg (128lbs)',
+                'birthday': 'September 3',
+                'hairColor': 'Blonde to Orange',
+                'eyeColor': 'Brown',
+                'combatStyle': 'Thunder Breathing',
+                'affiliation': 'Demon Slayer Corps',
+                'arc': 'Unwavering Resolve: Total Concentration Breathing',
+                'power': 120
+            },
         
             'inosuke': {
                 'fullName': 'Inosuke Hashibira',
