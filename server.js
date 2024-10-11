@@ -263,6 +263,22 @@ const characters = {
                 'arc': 'Mugen Train: Thunder Breathing',
                 'power': 140
             },
+
+            'zenistu entertainment district': {
+                'fullName': 'Zenitsu Agatsuma',
+                'race': 'Human',
+                'gender': 'Male',
+                'age': '16',
+                'height': '164cm (5.4)',
+                'weight': '58kg (128lbs)',
+                'birthday': 'September 3',
+                'hairColor': 'Blonde to Orange',
+                'eyeColor': 'Brown',
+                'combatStyle': 'Thunder Breathing',
+                'affiliation': 'Demon Slayer Corps',
+                'arc': 'Entertainment District: Thunder Breathing',
+                'power': 250
+            },
         
             'inosuke': {
                 'fullName': 'Inosuke Hashibira',
