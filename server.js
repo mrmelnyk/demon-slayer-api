@@ -280,7 +280,7 @@ const characters = {
                 'power': 250
             },
         
-            'inosuke': {
+            'inosuke final selection': {
                 'fullName': 'Inosuke Hashibira',
                 'race': 'Human',
                 'gender': 'Male',
@@ -294,6 +294,22 @@ const characters = {
                 'affiliation': 'Demon Slayer Corps',
                 'arc': 'Unwavering Resolve: Final Selection',
                 'power': 60
+            },
+
+            'inosuke tsuzumi mansion': {
+                'fullName': 'Inosuke Hashibira',
+                'race': 'Human',
+                'gender': 'Male',
+                'age': '15',
+                'height': '164cm (5.4)',
+                'weight': '63kg (139lbs)',
+                'birthday': 'April 22',
+                'hairColor': 'Black to Blue',
+                'eyeColor': 'Green',
+                'combatStyle': 'Beast Breathing',
+                'affiliation': 'Demon Slayer Corps',
+                'arc': 'Unwavering Resolve: Tsuzumi Mansion',
+                'power': 90
             },
 
             'kanao': {
