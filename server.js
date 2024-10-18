@@ -312,6 +312,22 @@ const characters = {
                 'power': 90
             },
 
+            'inosuke mt natagumo': {
+                'fullName': 'Inosuke Hashibira',
+                'race': 'Human',
+                'gender': 'Male',
+                'age': '15',
+                'height': '164cm (5.4)',
+                'weight': '63kg (139lbs)',
+                'birthday': 'April 22',
+                'hairColor': 'Black to Blue',
+                'eyeColor': 'Green',
+                'combatStyle': 'Beast Breathing',
+                'affiliation': 'Demon Slayer Corps',
+                'arc': 'Unwavering Resolve: Tsuzumi Mansion',
+                'power': 120
+            },
+
             'kanao': {
                 'fullName': 'Kanao Tsuyuri',
                 'race': 'Human',
