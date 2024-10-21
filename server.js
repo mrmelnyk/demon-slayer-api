@@ -324,8 +324,24 @@ const characters = {
                 'eyeColor': 'Green',
                 'combatStyle': 'Beast Breathing',
                 'affiliation': 'Demon Slayer Corps',
-                'arc': 'Unwavering Resolve: Tsuzumi Mansion',
+                'arc': 'Unwavering Resolve: Mt. Natagumo',
                 'power': 120
+            },
+
+            'inosuke butterfly mansion': {
+                'fullName': 'Inosuke Hashibira',
+                'race': 'Human',
+                'gender': 'Male',
+                'age': '15',
+                'height': '164cm (5.4)',
+                'weight': '63kg (139lbs)',
+                'birthday': 'April 22',
+                'hairColor': 'Black to Blue',
+                'eyeColor': 'Green',
+                'combatStyle': 'Beast Breathing',
+                'affiliation': 'Demon Slayer Corps',
+                'arc': 'Unwavering Resolve: Total Concentration Breathing',
+                'power': 170
             },
 
             'kanao': {
