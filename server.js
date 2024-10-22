@@ -261,7 +261,7 @@ const characters = {
                 'combatStyle': 'Thunder Breathing',
                 'affiliation': 'Demon Slayer Corps',
                 'arc': 'Mugen Train: Thunder Breathing',
-                'power': 140
+                'power': 180
             },
 
             'zenistu entertainment district': {
@@ -342,6 +342,22 @@ const characters = {
                 'affiliation': 'Demon Slayer Corps',
                 'arc': 'Unwavering Resolve: Total Concentration Breathing',
                 'power': 170
+            },
+
+            'inosuke mugen train': {
+                'fullName': 'Inosuke Hashibira',
+                'race': 'Human',
+                'gender': 'Male',
+                'age': '15',
+                'height': '164cm (5.4)',
+                'weight': '63kg (139lbs)',
+                'birthday': 'April 22',
+                'hairColor': 'Black to Blue',
+                'eyeColor': 'Green',
+                'combatStyle': 'Beast Breathing',
+                'affiliation': 'Demon Slayer Corps',
+                'arc': 'Mugen Train: Beast Breathing',
+                'power': 200
             },
 
             'kanao': {
