@@ -376,7 +376,7 @@ const characters = {
                 'power': 300
             },
 
-            'kanao': {
+            'kanao butterfly mansion': {
                 'fullName': 'Kanao Tsuyuri',
                 'race': 'Human',
                 'gender': 'Female',
@@ -388,6 +388,7 @@ const characters = {
                 'eyeColor': 'Purple',
                 'combatStyle': 'Flower Breathing',
                 'affiliation': 'Demon Slayer Corps',
+                'arc': 'Unwavering Resolve: Total Concentration Breathing',
                 'power': 160
             },
 
