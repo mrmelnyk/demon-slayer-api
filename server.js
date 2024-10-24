@@ -958,7 +958,7 @@ const characters = {
                 'eyeColor': 'Gold with Red Sclera',
                 'combatStyle': 'Moon Breathing',
                 'affiliation': 'Twelve Kizuki: Upper One',
-                'power': ''
+                'power': 1000
             }
     },
 
