@@ -943,7 +943,7 @@ const characters = {
                 'eyeColor': 'Rainbow',
                 'combatStyle': 'Tessen Jujitsu/Cryokinesis',
                 'affiliation': 'Twelve Kizuki: Upper Two',
-                'power': 900
+                'power': 1400
             },
 
             'kokushibo': {
@@ -958,7 +958,7 @@ const characters = {
                 'eyeColor': 'Gold with Red Sclera',
                 'combatStyle': 'Moon Breathing',
                 'affiliation': 'Twelve Kizuki: Upper One',
-                'power': 1000
+                'power': 1500
             }
     },
 
