@@ -928,7 +928,7 @@ const characters = {
                 'eyeColor': 'Yellow with Blue sclera',
                 'combatStyle': 'Destructive Death',
                 'affiliation': 'Twelve Kizuki: Upper Three',
-                'power': ''
+                'power': 1200
             },
 
             'doma': {
