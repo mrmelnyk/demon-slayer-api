@@ -839,7 +839,7 @@ const characters = {
                 'eyeColor': 'Red with Yellow Sclera(Right) Lime Green with Yellow Sclera',
                 'combatStyle': 'Blood Manipulation',
                 'affiliation': 'Twelve Kizuki: Upper Six (Formerly)',
-                'power': ''
+                'power': 800
             },
             'daki': {
                 'fullName': 'Daki Shabana',
@@ -853,7 +853,7 @@ const characters = {
                 'eyeColor': 'Lime Green',
                 'combatStyle': 'Obi Sash Manipulation',
                 'affiliation': 'Twelve Kizuki: Upper Six (Formerly)',
-                'power': ''
+                'power': 700
             },
 
             'kaigaku': {
@@ -868,7 +868,7 @@ const characters = {
                 'eyeColor': 'Turquoise with Black Sclera',
                 'combatStyle': 'Thunder Breathing',
                 'affiliation': 'Twelve Kizuki: Upper Six',
-                'power': ''
+                'power': 900
             },
 
             'gyokko': {
@@ -883,7 +883,7 @@ const characters = {
                 'eyeColor': 'Honey Brown',
                 'combatStyle': 'Porcelain Vase Spells',
                 'affiliation': 'Twelve Kizuki: Upper Five (Formerly)',
-                'power': ''
+                'power': 900
             },
 
             'hantengu': {
@@ -898,7 +898,7 @@ const characters = {
                 'eyeColor': 'Yellow with Red sclera',
                 'combatStyle': 'Emotion Manifestation',
                 'affiliation': 'Twelve Kizuki: Upper Four (Formerly)',
-                'power': ''
+                'power': 1000
             },
 
             'nakime': {
@@ -913,7 +913,7 @@ const characters = {
                 'eyeColor': 'Pink',
                 'combatStyle': 'Infinity Castle Manipulation',
                 'affiliation': 'Twelve Kizuki: Upper Four',
-                'power': ''
+                'power': 1000
             },
 
             'akaza': {
