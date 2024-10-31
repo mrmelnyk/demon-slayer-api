@@ -749,7 +749,7 @@ const characters = {
                 'eyeColor': 'Pale Blue',
                 'combatStyle': '',
                 'affiliation': 'Twelve Kizuki: Lower Six',
-                'power': ''
+                'power': 250
             },
 
             'rui': {
@@ -764,7 +764,7 @@ const characters = {
                 'eyeColor': 'White',
                 'combatStyle': 'Thread Manipulation',
                 'affiliation': 'Twelve Kizuki: Lower Five/Spider Family',
-                'power': ''
+                'power': 260
             },
 
             'mukago': {
@@ -779,7 +779,7 @@ const characters = {
                 'eyeColor': 'Greyish Purple',
                 'combatStyle': '',
                 'affiliation': 'Twelve Kizuki: Lower Four',
-                'power': ''
+                'power': 270
             },
 
             'wakuraba': {
@@ -794,7 +794,7 @@ const characters = {
                 'eyeColor': 'Orange',
                 'combatStyle': '',
                 'affiliation': 'Twelve Kizuki: Lower Three',
-                'power': ''
+                'power': 275
             },
 
             'rokuro': {
@@ -809,7 +809,7 @@ const characters = {
                 'eyeColor': 'Gold',
                 'combatStyle': '',
                 'affiliation': 'Twelve Kizuki: Lower Two',
-                'power': ''
+                'power': 280
             },
 
             'enmu': {
@@ -824,7 +824,7 @@ const characters = {
                 'eyeColor': 'Blue',
                 'combatStyle': 'Sleep Manipulation',
                 'affiliation': 'Twelve Kizuki: Lower One',
-                'power': ''
+                'power': 300
             },
 
             'gyutaro': {
