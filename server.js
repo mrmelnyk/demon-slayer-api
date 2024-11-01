@@ -644,7 +644,7 @@ const characters = {
                 'eyeColor': 'Yellow',
                 'combatStyle': 'Hand Manipulation',
                 'affiliation': 'None',
-                'power': ''
+                'power': 20
             },
 
             'swamp demon': {
@@ -659,7 +659,7 @@ const characters = {
                 'eyeColor': 'Red',
                 'combatStyle': 'Swamp Domain',
                 'affiliation': 'None',
-                'power': ''
+                'power': 50
             },
 
             'father': {
@@ -674,7 +674,7 @@ const characters = {
                 'eyeColor': 'Teal',
                 'combatStyle': '',
                 'affiliation': 'Spider Family',
-                'power': ''
+                'power': 150
             },
 
             'mother': {
@@ -689,7 +689,7 @@ const characters = {
                 'eyeColor': 'Light Blue to Pale Green',
                 'combatStyle': 'Puppeteer',
                 'affiliation': 'Spider Family',
-                'power': ''
+                'power': 120
             },
 
             'son': {
@@ -704,7 +704,7 @@ const characters = {
                 'eyeColor': 'Red(Left) Light Green(Right)',
                 'combatStyle': '',
                 'affiliation': 'Spider Family',
-                'power': ''
+                'power': 110
             },
 
             'daughter': {
@@ -719,7 +719,7 @@ const characters = {
                 'eyeColor': 'Silver',
                 'combatStyle': '',
                 'affiliation': 'Spider Family',
-                'power': ''
+                'power': 100
             },
 
             'kyogai': {
@@ -734,7 +734,7 @@ const characters = {
                 'eyeColor': 'Red',
                 'combatStyle': 'Drum Spells',
                 'affiliation': 'Twelve Kizuki: Lower Six(Formerly)',
-                'power': ''
+                'power': 90
             },
 
             'kamanue': {
