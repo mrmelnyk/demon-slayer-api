@@ -584,7 +584,7 @@ const characters = {
                 'eyeColor': 'Purple to Lavender',
                 'combatStyle': 'Blood Demon Art: Blood Bewitchment',
                 'affiliation': 'Demon Slayer Corps',
-                'power': ''
+                'power': 60
             },
 
             'yushiro': {
@@ -599,7 +599,7 @@ const characters = {
                 'eyeColor': 'Lavender',
                 'combatStyle': 'Blood Demon Art: Blindfold',
                 'affiliation': 'Demon Slayer Corps',
-                'power': ''
+                'power': 50
             },
 
             'susamaru': {
@@ -614,7 +614,7 @@ const characters = {
                 'eyeColor': 'Yellow',
                 'combatStyle': 'Hiasobi Temari',
                 'affiliation': 'Muzan Kibutsuji',
-                'power': ''
+                'power': 75
             },
 
             'yahaba': {
@@ -629,7 +629,7 @@ const characters = {
                 'eyeColor': 'Red',
                 'combatStyle': 'Koketsu Arrow',
                 'affiliation': 'Muzan Kibutsuji',
-                'power': ''
+                'power': 75
             },
 
             'hand demon': {
