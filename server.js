@@ -539,7 +539,7 @@ const characters = {
                 'eyeColor': 'White',
                 'combatStyle': 'Stone Breathing',
                 'affiliation': 'Demon Slayer Corps Hashira',
-                'power': ''
+                'power': 1200
             },
 
             'nezuko': {
@@ -554,6 +554,7 @@ const characters = {
                 'eyeColor': 'Pink',
                 'combatStyle': 'Blood Demon Art: Combustible Blood',
                 'affiliation': 'Demon Slayer Corps',
+                'arc': 'Unwavering Resolve: ',
                 'power': ''
             },
 
@@ -569,7 +570,7 @@ const characters = {
                 'eyeColor': 'Red',
                 'combatStyle': 'Biokinesis',
                 'affiliation': 'Leader of the Twelve Kizuki',
-                'power': ''
+                'power': 2000
             },
 
             'tamayo': {
