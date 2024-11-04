@@ -404,7 +404,7 @@ const characters = {
                 'eyeColor': 'Dark Purple',
                 'combatStyle': 'Dual Weilding: Pistol & Katana',
                 'affiliation': 'Demon Slayer Corps',
-                'power': ''
+                'power': 300
             },
 
             'giyu': {
@@ -419,7 +419,7 @@ const characters = {
                 'eyeColor': 'Blue',
                 'combatStyle': 'Water Breathing',
                 'affiliation': 'Demon Slayer Corps Hashira',
-                'power': ''
+                'power': 800
             },
 
             'shinobu': {
@@ -434,7 +434,7 @@ const characters = {
                 'eyeColor': 'Purple',
                 'combatStyle': 'Insect Breathing',
                 'affiliation': 'Demon Slayer Corps Hashira',
-                'power': ''
+                'power': 700
             },
 
             'rengoku': {
@@ -449,7 +449,7 @@ const characters = {
                 'eyeColor': 'Gold with Red Irises',
                 'combatStyle': 'Flame Breathing',
                 'affiliation': 'Demon Slayer Corps Hashira',
-                'power': ''
+                'power': 700
             },
 
             'tengen': {
@@ -464,7 +464,7 @@ const characters = {
                 'eyeColor': 'Fuchsia',
                 'combatStyle': 'Sound Breathing',
                 'affiliation': 'Demon Slayer Corps Hashira',
-                'power': ''
+                'power': 700
             },
 
             'muichiro': {
@@ -479,7 +479,7 @@ const characters = {
                 'eyeColor': 'Cyan',
                 'combatStyle': 'Mist Breathing',
                 'affiliation': 'Demon Slayer Corps Hashira',
-                'power': ''
+                'power': 900
             },
 
             'kanroji': {
@@ -494,7 +494,7 @@ const characters = {
                 'eyeColor': 'Green',
                 'combatStyle': 'Love Breathing',
                 'affiliation': 'Demon Slayer Corps Hashira',
-                'power': ''
+                'power': 800
             },
 
             'obanai': {
@@ -509,7 +509,7 @@ const characters = {
                 'eyeColor': 'Teal(Left) Yellow(Right)',
                 'combatStyle': 'Serpent Breathing',
                 'affiliation': 'Demon Slayer Corps Hashira',
-                'power': ''
+                'power': 1000
             },
 
             'shinazugawa': {
@@ -524,7 +524,7 @@ const characters = {
                 'eyeColor': 'Light Purple',
                 'combatStyle': 'Wind Breathing',
                 'affiliation': 'Demon Slayer Corps Hashira',
-                'power': ''
+                'power': 1000
             },
 
             'himejima': {
