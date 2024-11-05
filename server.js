@@ -542,7 +542,7 @@ const characters = {
                 'power': 1200
             },
 
-            'nezuko': {
+            'nezuko first turned': {
                 'fullName': 'Nezuko Kamado',
                 'race': 'Human/Demon',
                 'gender': 'Female',
@@ -554,8 +554,24 @@ const characters = {
                 'eyeColor': 'Pink',
                 'combatStyle': 'Blood Demon Art: Combustible Blood',
                 'affiliation': 'Demon Slayer Corps',
-                'arc': 'Unwavering Resolve: ',
-                'power': ''
+                'arc': 'Unwavering Resolve: First Turned',
+                'power': 30
+            },
+
+            'nezuko first mission': {
+                'fullName': 'Nezuko Kamado',
+                'race': 'Human/Demon',
+                'gender': 'Female',
+                'age': '14',
+                'height': '153cm (5.0)',
+                'weight': '45kg (99lbs)',
+                'birthday': 'December 28',
+                'hairColor': 'Black to Orange',
+                'eyeColor': 'Pink',
+                'combatStyle': 'Blood Demon Art: Combustible Blood',
+                'affiliation': 'Demon Slayer Corps',
+                'arc': 'Unwavering Resolve: First Mission',
+                'power': 50
             },
 
             'muzan': {
