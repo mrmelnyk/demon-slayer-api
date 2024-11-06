@@ -574,6 +574,22 @@ const characters = {
                 'power': 50
             },
 
+            'nezuko asakusa': {
+                'fullName': 'Nezuko Kamado',
+                'race': 'Human/Demon',
+                'gender': 'Female',
+                'age': '14',
+                'height': '153cm (5.0)',
+                'weight': '45kg (99lbs)',
+                'birthday': 'December 28',
+                'hairColor': 'Black to Orange',
+                'eyeColor': 'Pink',
+                'combatStyle': 'Blood Demon Art: Combustible Blood',
+                'affiliation': 'Demon Slayer Corps',
+                'arc': 'Unwavering Resolve: Asakusa, Tokyo',
+                'power': 80
+            },
+
             'muzan': {
                 'fullName': 'Muzan Kibutsuji',
                 'race': 'Demon',
