@@ -606,6 +606,22 @@ const characters = {
                 'power': 90
             },
 
+            'nezuko mugen train': {
+                'fullName': 'Nezuko Kamado',
+                'race': 'Human/Demon',
+                'gender': 'Female',
+                'age': '14',
+                'height': '153cm (5.0)',
+                'weight': '45kg (99lbs)',
+                'birthday': 'December 28',
+                'hairColor': 'Black to Orange',
+                'eyeColor': 'Pink',
+                'combatStyle': 'Blood Demon Art: Combustible Blood',
+                'affiliation': 'Demon Slayer Corps',
+                'arc': 'Mugen Train',
+                'power': 110
+            },
+
             'muzan': {
                 'fullName': 'Muzan Kibutsuji',
                 'race': 'Demon',
