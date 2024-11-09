@@ -638,6 +638,22 @@ const characters = {
                 'power': 250
             },
 
+            'nezuko entertainment district barbed': {
+                'fullName': 'Nezuko Kamado',
+                'race': 'Human/Demon',
+                'gender': 'Female',
+                'age': '14',
+                'height': '153cm (5.0)',
+                'weight': '45kg (99lbs)',
+                'birthday': 'December 28',
+                'hairColor': 'Black to Orange',
+                'eyeColor': 'Pink',
+                'combatStyle': 'Blood Demon Art: Combustible Blood',
+                'affiliation': 'Demon Slayer Corps',
+                'arc': 'Entertainment District Arc: Barbed',
+                'power': 500
+            },
+
             'muzan': {
                 'fullName': 'Muzan Kibutsuji',
                 'race': 'Demon',
