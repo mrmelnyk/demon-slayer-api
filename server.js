@@ -392,8 +392,23 @@ const characters = {
                 'power': 160
             },
 
-            'genya': {
+            'genya human': {
                 'fullName': 'Genya Shinazugawa',
+                'race': 'Human',
+                'gender': 'Male',
+                'age': '16',
+                'height': '180cm (5.11)',
+                'weight': '76kg (168lbs)',
+                'birthday': 'January 7',
+                'hairColor': 'Black',
+                'eyeColor': 'Dark Purple',
+                'combatStyle': 'Dual Weilding: Pistol & Katana',
+                'affiliation': 'Demon Slayer Corps',
+                'power': 150
+            },
+
+            'genya demon': {
+                'fullName': 'Genya Shinazugawa: Demon',
                 'race': 'Human',
                 'gender': 'Male',
                 'age': '16',
