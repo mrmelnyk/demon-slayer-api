@@ -200,7 +200,21 @@ const characters = {
                 'power': 550
             },
 
-            
+            'tanjiro sword smith village hinokami kagura': {
+                'fullName': 'Tanjiro Kamado',
+                'race': 'Human',
+                'gender': 'Male',
+                'age': '16',
+                'height': '165cm (5.5)',
+                'weight': '61kg (134lb)',
+                'birthday': 'July 14',
+                'hairColor': 'Black to Red',
+                'eyeColor': 'Dark Red',
+                'combatStyle': 'Water Breathing',
+                'affiliation': 'Demon Slayer Corps',
+                'arc': 'Sword Smith Village: Hinokami Kagura',
+                'power': 750
+            },
         
             'zenistu final selection': {
                 'fullName': 'Zenitsu Agatsuma',
