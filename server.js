@@ -231,6 +231,22 @@ const characters = {
                 'arc': 'Sword Smith Village: Marked',
                 'power': 850
             },
+
+            'tanjiro hashira training tengen': {
+                'fullName': 'Tanjiro Kamado',
+                'race': 'Human',
+                'gender': 'Male',
+                'age': '16',
+                'height': '165cm (5.5)',
+                'weight': '61kg (134lb)',
+                'birthday': 'July 14',
+                'hairColor': 'Black to Red',
+                'eyeColor': 'Dark Red',
+                'combatStyle': 'Water Breathing',
+                'affiliation': 'Demon Slayer Corps',
+                'arc': 'Hashira Training: Tengen',
+                'power': 850
+            },
         
             'zenistu final selection': {
                 'fullName': 'Zenitsu Agatsuma',
