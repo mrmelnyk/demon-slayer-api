@@ -260,8 +260,24 @@ const characters = {
                 'eyeColor': 'Dark Red',
                 'combatStyle': 'Water Breathing',
                 'affiliation': 'Demon Slayer Corps',
-                'arc': 'Hashira Training: Tengen',
+                'arc': 'Hashira Training: Kanroji',
                 'power': 875
+            },
+
+            'tanjiro hashira training muichiro': {
+                'fullName': 'Tanjiro Kamado',
+                'race': 'Human',
+                'gender': 'Male',
+                'age': '16',
+                'height': '165cm (5.5)',
+                'weight': '61kg (134lb)',
+                'birthday': 'July 14',
+                'hairColor': 'Black to Red',
+                'eyeColor': 'Dark Red',
+                'combatStyle': 'Water Breathing',
+                'affiliation': 'Demon Slayer Corps',
+                'arc': 'Hashira Training: Muichiro',
+                'power': 900
             },
         
             'zenistu final selection': {
