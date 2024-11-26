@@ -593,7 +593,7 @@ const characters = {
                 'eyeColor': 'Purple',
                 'combatStyle': 'Insect Breathing',
                 'affiliation': 'Demon Slayer Corps Hashira',
-                'power': 700
+                'power': 800
             },
 
             'rengoku': {
