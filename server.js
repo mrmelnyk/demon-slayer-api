@@ -312,7 +312,7 @@ const characters = {
                 'power': 875
             },
 
-            'tanjiro hashira training Himejima': {
+            'tanjiro hashira training himejima': {
                 'fullName': 'Tanjiro Kamado',
                 'race': 'Human',
                 'gender': 'Male',
