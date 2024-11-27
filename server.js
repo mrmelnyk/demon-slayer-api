@@ -376,6 +376,22 @@ const characters = {
                 'power': 90
             },
 
+            'zenistu mt natagumo sleeping': {
+                'fullName': 'Zenitsu Agatsuma',
+                'race': 'Human',
+                'gender': 'Male',
+                'age': '16',
+                'height': '164cm (5.4)',
+                'weight': '58kg (128lbs)',
+                'birthday': 'September 3',
+                'hairColor': 'Blonde to Orange',
+                'eyeColor': 'Brown',
+                'combatStyle': 'Thunder Breathing',
+                'affiliation': 'Demon Slayer Corps',
+                'arc': 'Unwavering Resolve: Mt. Natagumo Sleeping',
+                'power': 120
+            },
+
             'zenistu butterfly mansion': {
                 'fullName': 'Zenitsu Agatsuma',
                 'race': 'Human',
@@ -408,6 +424,22 @@ const characters = {
                 'power': 180
             },
 
+            'zenistu mugen train sleeping': {
+                'fullName': 'Zenitsu Agatsuma',
+                'race': 'Human',
+                'gender': 'Male',
+                'age': '16',
+                'height': '164cm (5.4)',
+                'weight': '58kg (128lbs)',
+                'birthday': 'September 3',
+                'hairColor': 'Blonde to Orange',
+                'eyeColor': 'Brown',
+                'combatStyle': 'Thunder Breathing',
+                'affiliation': 'Demon Slayer Corps',
+                'arc': 'Mugen Train: Sleeping',
+                'power': 220
+            },
+
             'zenistu entertainment district': {
                 'fullName': 'Zenitsu Agatsuma',
                 'race': 'Human',
@@ -422,6 +454,22 @@ const characters = {
                 'affiliation': 'Demon Slayer Corps',
                 'arc': 'Entertainment District: Thunder Breathing',
                 'power': 250
+            },
+
+            'zenistu entertainment district sleeping': {
+                'fullName': 'Zenitsu Agatsuma',
+                'race': 'Human',
+                'gender': 'Male',
+                'age': '16',
+                'height': '164cm (5.4)',
+                'weight': '58kg (128lbs)',
+                'birthday': 'September 3',
+                'hairColor': 'Blonde to Orange',
+                'eyeColor': 'Brown',
+                'combatStyle': 'Thunder Breathing',
+                'affiliation': 'Demon Slayer Corps',
+                'arc': 'Entertainment District: Sleeping',
+                'power': 400
             },
         
             'inosuke final selection': {
