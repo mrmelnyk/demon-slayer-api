@@ -21,7 +21,7 @@ const characters = {
                 'combatStyle': 'Water Breathing',
                 'affiliation': 'Demon Slayer Corps',
                 'arc': 'Unwavering Resolve: Final Selection',
-                'power': 65
+                'power': 60
             },
 
             'tanjiro first mission': {
